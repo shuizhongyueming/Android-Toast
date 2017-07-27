@@ -2,7 +2,6 @@
 Android-Toast
 (c) 2013-2014 Jad Joubran
 */
-(function() {
 	"use strict";
 
 	function Android_Toast(options) {
@@ -94,7 +93,5 @@ Android-Toast
 		return true;
 	};
 
-	//expose the Android_Toast object to Window
-	window.Android_Toast = Android_Toast;
+    export default Android_Toast;
 
-})();

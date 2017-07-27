@@ -1,0 +1,27 @@
+{
+  "name": "@feiyun/toast",
+  "version": "1.0.0",
+  "description": "An HTML5 replication of the Native Android Toast http://developer.android.com/guide/topics/ui/notifiers/toasts.html",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shuizhongyueming/Android-Toast.git"
+  },
+  "keywords": [
+    "android",
+    "ui",
+    "toast"
+  ],
+  "author": "JoubranJad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shuizhongyueming/Android-Toast/issues"
+  },
+  "homepage": "https://github.com/shuizhongyueming/Android-Toast#readme"
+}
